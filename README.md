@@ -1,0 +1,2 @@
+# CamSceneCapabilities
+Szybkie sprawdzenie możliwości
